@@ -1,4 +1,4 @@
-# LLD - Low Level Design
+# LLD - Low Level Design-Parking Lot
 
 My notes and solutions for the Backend LLD machine coding problems from the Scaler Academy course. Each problem has a design session (classes, relationships, and flow) followed by coding sessions where the design is turned into working code.
 
